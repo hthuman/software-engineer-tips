@@ -1,0 +1,78 @@
+# How To Ramp Up On A New Team
+
+You've just landed your dream job. Now what?
+
+The first few months will be an overload of new information and concepts. You'll feel overwhelmed, confused, and completely ignorant for most of it. Don't worry, this is completely normal. 
+
+This guide will provide a framework for getting up to speed on your new team so you can start producing value as soon as possible.
+
+
+## Questions To Ask
+
+Question asking is an incredibly valuable tool. See the section below for tips on how to ask questions effectively.
+
+### People
+ * Who is my manager, what do they need from me to have a good working relationship?
+ * Meet everyone
+    * Ensure everyone knows who you are on a semi-personal basis (in person if possible), this makes them much more willing to help you out later
+    * What are they working on, or what areas can you ask them for help? 
+  * How do things get done on this team? (Planning, meetings, bug tracking, etc.)
+
+### Sources of information
+  * Who can I ask about what topic?
+  * Where is info stored? Wikis, docs, code, people’s heads, etc.?
+
+### Product
+  * Value prop (Why is the product important?)
+  * What’s the roadmap? (Current goals? 1 year goals? Long term vision?)
+  * Biggest challenges right now?
+  * What are the top level projects and why are they important?
+
+### Technology
+  * Understand the lifecycle of a user request in the system
+    * What endpoints/interfaces do they use (any documentation?), what services handle the request, what data does it touch?
+  * Development lifecycle
+    * How to build / test / deploy / monitor the product? Can be useful to take some code you’ve submitted and track its progress until it lands in production
+  * How is the codebase laid out?
+  * High level architecture?
+
+
+## How To Ask Questions
+
+No matter how senior you are, you will be very ignorant when you start on any new team. 
+Your responsibility is to fill in the gaps in your knowledge as soon as possible. 
+The easiest way to do this is by asking questions of your teammates who have all the knowledge in their heads that you want in yours.
+
+#### You are not asking enough questions
+
+I've been on teams that grew 7x which means I have helped ramp up many, many, new engineers. 
+In all this time, I have literally never met a new hire that asked too many questions.
+
+In truth, the more senior the engineer, the more questions they ask.
+
+#### Round robin questions to avoid overloading anyone
+
+#### Provide as much context as possible
+
+Think of your question as a bug report. You want to give as much information as possible so your target can help you out.
+
+Some examples:
+* *I checked the wiki and it said that I needed to create a widget with a foo parameter, but when I tried it, I got this error: "ERROR foo bar blah blah blahhhh"*
+  * Mentioning the wiki shows that you did work on your own before asking for help
+  * Including the exact error message and what you did to produce it will help your target help you
+
+#### Ask everyone the same question
+
+This is one of my favorite strategies to figure out what's going on in a team. 
+
+#### Ask the right person
+
+Some people love answering questions. Some people have really good mental models that enable them to provide good answers.
+
+These are all high value targets for asking questions.
+
+Some tips:
+* Believe anyone who says some variation of "Ping me if you have any questions", "Ask me anything", "Always happy to help out if you need it"
+* Try to ask people about topics they're experts on
+* Find fellow noobs or recent noobs to ask questions of. They'll be more sympathetic, they'll probably have learned what you want to know very recently, and best of all, they have plenty of free time to help you out.
+

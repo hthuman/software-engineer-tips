@@ -50,6 +50,12 @@ In all this time, I have literally never met a new hire that asked too many ques
 
 In truth, the more senior the engineer, the more questions they ask.
 
+#### Ask stupid questions
+
+Don't be afraid of looking stupid or ignorant. You ARE ignorant and everyone knows it, and that's fine because you're a new hire and it's expected. New hires have a couple month grace period where they can ask the stupidest of questions and not lose any face. Take advantage of this!
+
+Even after that grace period, don't be afraid of asking stupid questions. In my experience, it's usually the senior engineers in the room who ask the seemingly obvious questions that are really ["The emperor wears no clothes"](https://www.urbandictionary.com/define.php?term=The%20emperor%20wears%20no%20clothes) style of questions that cut to the heart of hand-wavy bullshit.
+
 #### Round robin questions to avoid overloading anyone
 
 #### Provide as much context as possible

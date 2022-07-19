@@ -9,7 +9,9 @@ This guide will provide a framework for getting up to speed on your new team so 
 
 ## Questions To Ask
 
-Question asking is an incredibly valuable tool. See the section below for tips on how to ask questions effectively.
+Question asking is an incredibly valuable tool. 
+
+See the section below for tips on *how* to ask questions effectively which can be a surprisingly hard skill to learn.
 
 ### People
  * Who is my manager, what do they need from me to have a good working relationship?
@@ -45,7 +47,7 @@ The easiest way to do this is by asking questions of your teammates who have all
 
 #### You are not asking enough questions
 
-I've been on teams that grew 7x which means I have helped ramp up many, many, new engineers. 
+I've been on teams that grew 10x which means I have helped ramp up many new engineers, from new grads to partners who were much more senior than me.
 In all this time, I have literally never met a new hire that asked too many questions.
 
 In truth, the more senior the engineer, the more questions they ask.
@@ -54,22 +56,31 @@ In truth, the more senior the engineer, the more questions they ask.
 
 Don't be afraid of looking stupid or ignorant. You ARE ignorant and everyone knows it, and that's fine because you're a new hire and it's expected. New hires have a couple month grace period where they can ask the stupidest of questions and not lose any face. Take advantage of this!
 
-Even after that grace period, don't be afraid of asking stupid questions. In my experience, it's usually the senior engineers in the room who ask the seemingly obvious questions that are really ["The emperor wears no clothes"](https://www.urbandictionary.com/define.php?term=The%20emperor%20wears%20no%20clothes) style of questions that cut to the heart of hand-wavy bullshit.
+Even after that grace period, don't be afraid of asking stupid questions. In my experience, it's usually the senior engineers in the room who ask the seemingly obvious questions that are really ["The emperor wears no clothes"](https://www.urbandictionary.com/define.php?term=The%20emperor%20wears%20no%20clothes) style of questions that cut past hand-wavy bullshit.
 
 #### Round robin questions to avoid overloading anyone
 
-#### Provide as much context as possible
+#### Provide as much context as possible (Avoid the XY problem)
 
 Think of your question as a bug report. You want to give as much information as possible so your target can help you out.
 
+Be careful of the https://xyproblem.info/ -- always explain why you want to do something in case the solution you had in mind is not the best one.
+
 Some examples:
-* *I checked the wiki and it said that I needed to create a widget with a foo parameter, but when I tried it, I got this error: "ERROR foo bar blah blah blahhhh"*
-  * Mentioning the wiki shows that you did work on your own before asking for help
+* *I checked the wiki (link) and it said that I needed to create a widget with a foo parameter, but when I tried it, I got this error: "ERROR foo bar blah blah blahhhh"*
+  * Mentioning the wiki shows that you did work on your own before asking for help. It also shows where your information came from as this most likely means the wiki was wrong or at least needs more information.
   * Including the exact error message and what you did to produce it will help your target help you
+* *Anyone know how to generate a TPS report for a machine? I'm trying to investigate bug 123456 (link) and I think that the TPS report will provide the stack trace so I can determine what failed. I tried to follow this wiki (link), but I keep getting this error: "ERROR: some error""
+  * Including the link to the bug allows others to read it and suggest better approaches
 
 #### Ask everyone the same question
 
-This is one of my favorite strategies to figure out what's going on in a team. 
+This is one of my favorite strategies to figure out what's going on in a team.
+
+* Everyone says the same thing: Great, this is a commonly accepted fact and you can most likely trust it
+* Everyone says something different: There is no consensus here or management isn't doing a good job communicating goals and aligning the team
+
+Most likely the actual situation will be somewhere in between. Everyone will give a slightly different answer based on what they care about which is great because it gives you the full picture.
 
 #### Ask the right person
 

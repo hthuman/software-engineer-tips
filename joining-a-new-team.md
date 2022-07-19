@@ -64,13 +64,13 @@ Even after that grace period, don't be afraid of asking stupid questions. In my 
 
 Think of your question as a bug report. You want to give as much information as possible so your target can help you out.
 
-Be careful of the https://xyproblem.info/ -- always explain why you want to do something in case the solution you had in mind is not the best one.
+Be careful of the https://xyproblem.info/ -- always explain why you want to do something in case the solution you had in mind is not the best one. If you're new to a team, this is almost certainly going to be the case.
 
 Some examples:
-* *I checked the wiki (link) and it said that I needed to create a widget with a foo parameter, but when I tried it, I got this error: "ERROR foo bar blah blah blahhhh"*
+> I checked the wiki (link) and it said that I needed to create a widget with a foo parameter, but when I tried it, I got this error: "ERROR foo bar blah blah blahhhh"
   * Mentioning the wiki shows that you did work on your own before asking for help. It also shows where your information came from as this most likely means the wiki was wrong or at least needs more information.
   * Including the exact error message and what you did to produce it will help your target help you
-* *Anyone know how to generate a TPS report for a machine? I'm trying to investigate bug 123456 (link) and I think that the TPS report will provide the stack trace so I can determine what failed. I tried to follow this wiki (link), but I keep getting this error: "ERROR: some error""
+> Anyone know how to generate a TPS report for a machine? I'm trying to investigate bug 123456 (link) and I think that the TPS report will provide the stack trace so I can determine what failed. I tried to follow this wiki (link), but I keep getting this error: "ERROR: some error""
   * Including the link to the bug allows others to read it and suggest better approaches
 
 #### Ask everyone the same question

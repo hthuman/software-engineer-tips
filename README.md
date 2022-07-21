@@ -12,4 +12,7 @@ Tips from 10+ years working as a software engineer
 ['/software-engineer-tips/about'](/software-engineer-tips/about)
 
 ['/about'](/about)
+
 ['/about']('/about')
+
+["/about"]("/about")

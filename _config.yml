@@ -1,6 +1,5 @@
 remote_theme: ronv/ultra
 
-baseurl: "/software-engineer-tips/"
 title: Software Engineer Tips
 
 permalink: pretty

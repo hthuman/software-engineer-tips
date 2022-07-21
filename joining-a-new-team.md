@@ -1,4 +1,7 @@
-# How To Ramp Up On A New Team
+---
+layout: page
+title: How To Ramp Up On A New Team
+---
 
 You've just landed your dream job. Now what?
 

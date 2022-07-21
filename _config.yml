@@ -6,7 +6,7 @@ permalink: pretty
 
 paginate:            1000
 paginate_path:       "/page:num/"
-baseurl:             ""
+baseurl:             "/software-engineer-tips"
   
 compress_html:
   clippings: all

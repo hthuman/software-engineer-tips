@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: How To Ramp Up On A New Team
 tags: junior
 ---

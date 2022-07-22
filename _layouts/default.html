@@ -5,10 +5,26 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
+  <style>
+    .column {
+      float: left;
+      width: 50%;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  </style>
   <body>
     {% include masthead.html %}
       <main id="main" role="main">
-        {{ content }}
+        <div class="row">
+          <div class="column">{% include sidebar.html %}</div>
+          <div class="column">{{ content }}</div>
+        </div>
       </main>
     <hr>
     {% include footer.html %}

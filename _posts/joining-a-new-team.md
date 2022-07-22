@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: How To Ramp Up On A New Team
-tag: junior
+tags: junior
 ---
 
 You've just landed your dream job. Now what?
